@@ -1,0 +1,29 @@
+body{
+    background-color:bisque;
+    color:brown;
+}
+
+.heading{
+    width:80%;
+    font-size: 25px;
+}
+
+.name_of_objects{
+color:palevioletred;
+}
+
+#camera, #result{
+    width:400px;
+    height: 300px;
+    border: 2px dotted black;
+}
+
+#result_object_name, #result_object_accuracy{
+    color:lightseagreen;
+}
+
+hr{
+    color:brown;
+    background-color: brown;
+    height: 2px;
+}
